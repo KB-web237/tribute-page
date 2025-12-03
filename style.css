@@ -15,13 +15,13 @@ header {
 
 body {
   background-color: lightgrey;
-  line-height: 1.9;
+  line-height: 1.6;
 }
 
 ul {
   display: inline-block;
-  padding-left: 32%;
-  padding-right: 32%;
+  padding-left: 35%;
+  padding-right: 35%;
   align-items: center;
   align-content: center;
   text-justify: center;
