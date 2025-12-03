@@ -15,10 +15,17 @@ div {
 
 body {
   background-color: lightgrey;
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 ul {
-  margin-left: 45rem;
-  margin-right: 45rem;
+  padding-left: 45rem;
+  padding-right: 45rem;
+}
+
+.imgx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
