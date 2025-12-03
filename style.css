@@ -9,6 +9,9 @@ p {
 }
 
 header {
+  display: block;
+  text-align: center;
+  align-content: center;
   background-color: white;
   padding: 12px;
 }
