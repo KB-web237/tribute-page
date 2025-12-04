@@ -24,6 +24,7 @@ header {
   margin: auto;
   height: 500px;
   width: 900px;
+  object-fit: cover;
 }
 
 .listx {
