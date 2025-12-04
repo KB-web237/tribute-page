@@ -4,7 +4,7 @@ This is a tribute web page created using **HTML** and **CSS** to honor **Dr. Nor
 ---
 
 ## Preview and How to use
-(open 'index.html' or the deployed link to view the tribute page)
+(open `index.html` or the deployed link to view the tribute page)
 
 ---
 
