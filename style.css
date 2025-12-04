@@ -26,12 +26,12 @@ header {
   width: 900px;
 }
 
-.listX {
+.listx {
   max-width: 35rem;
   margin: auto;
 }
 
-.listX ul {
+.listx ul {
   list-style-type: disc;
   padding-left: 1.5rem;
 }
