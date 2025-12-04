@@ -14,9 +14,10 @@ p {
   text-align: center;
 }
 
-header {
+.pcontainer {
   background-color: white;
   padding: 12px;
+  max-width: 100%;
 }
 
 img {
@@ -25,7 +26,6 @@ img {
 }
 
 .imgx {
-  display: flex;
   margin: auto;
   height: 400px;
   width: 700px;
