@@ -17,12 +17,16 @@ p {
 .pcontainer {
   background-color: white;
   padding: 12px;
-  max-width: 100%;
+  max-width: 800px;
+  margin: auto;
 }
 
+main {
+  background-color: white;
+}
 img {
   margin: auto;
-  width: 100%;
+  width: 800px;
   object-fit: cover;
 }
 
@@ -34,4 +38,8 @@ img {
 .listx ul {
   list-style-type: disc;
   padding-left: 1.5rem;
+}
+
+a {
+  color: dodgerblue;
 }
