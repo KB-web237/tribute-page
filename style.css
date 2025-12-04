@@ -2,6 +2,12 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background-color: lightgrey;
+  line-height: 1.7;
+  word-spacing: 4px;
+}
+
 h1,
 h3,
 p {
@@ -9,30 +15,23 @@ p {
 }
 
 header {
-  display: block;
-  text-align: center;
-  align-content: center;
   background-color: white;
   padding: 12px;
 }
 
-body {
-  background-color: lightgrey;
-  line-height: 1.6;
-}
-
-ul {
-  display: inline-block;
-  padding-left: 35%;
-  padding-right: 35%;
-  align-items: center;
-  align-content: center;
-  text-justify: center;
-}
-
 .imgx {
   display: flex;
-  justify-content: center;
-  align-items: center;
   margin: auto;
+  height: 500px; 
+  width: 900px;
+}
+
+.listX {
+  max-width: 35rem;
+  margin: auto;
+}
+
+.listX ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
 }
