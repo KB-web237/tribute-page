@@ -22,12 +22,13 @@ p {
 }
 
 main {
+  max-width: 100%;
   background-color: white;
 }
 
 img {
   margin: auto;
-  width: 800px;
+  width: 100%;
   object-fit: cover;
 }
 
