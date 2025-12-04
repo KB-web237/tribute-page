@@ -19,11 +19,16 @@ header {
   padding: 12px;
 }
 
+img {
+  max-width: fit-content;
+  max-height: fit-content;
+}
+
 .imgx {
   display: flex;
   margin: auto;
-  height: 500px;
-  width: 900px;
+  height: 400px;
+  width: 700px;
   object-fit: cover;
 }
 
